@@ -21,8 +21,12 @@ Growing devleloper who is easy to approach.
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hgh21233)](https://solved.ac/hgh21233)
 ##### :warning: 아직 모든 Skills는 초보자 수준입니:carrot: :warning:
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hgh21233)](https://solved.ac/hgh21233/)
+<div>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hgh21233)](https://solved.ac/hgh21233/) 
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=hgh21233&theme=warm)
+
+</div>
 </div>
 
 ---
