@@ -23,8 +23,8 @@ Growing devleloper who is easy to approach.
 
 <div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hgh21233)](https://solved.ac/hgh21233/) 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=hgh21233&theme=warm)
+  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=hgh21233&theme=warm)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hgh21233)](https://solved.ac/hgh21233/) 
 
 </div>
 </div>
