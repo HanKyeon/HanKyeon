@@ -16,7 +16,7 @@ Growing devleloper who is easy to approach.
 ##### :computer: Samsung Software Academy For Youth 8th (2022.07 ~ )
 
 ### :hammer: Skills :wrench:
-##### <<img src="https://img.shields.io/badge/React-#61DAFB?style=flat&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Vue-#4FC08D?style=flat&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/django-#092E20?style=flat&logo=Django&logoColor=white"/>
+##### <img src="https://img.shields.io/badge/React-#61DAFB?style=flat&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Vue-#4FC08D?style=flat&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/django-#092E20?style=flat&logo=Django&logoColor=white"/>
 ##### <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Java%20Script-F7DF1E?style=flat-square&logo=JavaScript&logoColor=FFFFFF"/>
 ##### <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=Android&logoColor=FFFFFF"/>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hgh21233)](https://solved.ac/hgh21233)
