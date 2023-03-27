@@ -33,9 +33,9 @@ Growing devleloper who is easy to approach.
   ---
   ### :clipboard: Project :chart_with_upwards_trend:
   
-  #### :cookie: CookieMovie : [여운을 함께하는 영화 추천 서비스](https://github.com/HanKyeon/CookieMovie)
-  #### :ocean: CalmWave : [업무 시간 관리 및 자세 교정 서비스](https://github.com/HanKyeon/Calm-Wave)
-  #### :family: doEng : [우리 아이 행동을 통한 영어 학습 서비스. 진행중입니다...]()
+  #### :cookie: CookieMovie :movie_camera: : [여운을 함께하는 영화 추천 서비스](https://github.com/HanKyeon/CookieMovie)
+  #### :ocean: CalmWave :watch: : [업무 시간 관리 및 자세 교정 서비스](https://github.com/HanKyeon/Calm-Wave)
+  #### :family: doEng :baby: : [우리 아이 행동을 통한 영어 학습 서비스. 진행중입니다...]()
   ---
   
   [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hgh21233)](https://solved.ac/hgh21233)
