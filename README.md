@@ -29,6 +29,15 @@ Growing devleloper who is easy to approach.
   ##### <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=Django&logoColor=white"/>
   ##### <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=FFFFFF"/> 
   ##### <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=Android&logoColor=FFFFFF"/>
+  
+  ---
+  ### :clipboard: Project :chart_with_upwards_trend:
+  
+  #### :cookie: CookieMovie : [여운을 함께하는 영화 추천 서비스](https://github.com/HanKyeon/CookieMovie)
+  #### :ocean: CalmWave : [업무 시간 관리 및 자세 교정 서비스](https://github.com/HanKyeon/Calm-Wave)
+  #### :family: doEng : [우리 아이 행동을 통한 영어 학습 서비스. 진행중입니다...]()
+  ---
+  
   [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hgh21233)](https://solved.ac/hgh21233)
 
   <div>
