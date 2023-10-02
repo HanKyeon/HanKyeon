@@ -13,7 +13,7 @@ Growing devleloper who is easy to approach.
 
   ### :books: History :books:
   ##### :school:Inha Univ. Chemical Engineering (2014.03 ~ 2022.02)
-  ##### :computer: Samsung Software Academy For Youth 8th (2022.07 ~ 2022.06)
+  ##### :computer: Samsung Software Academy For Youth 8th (2022.07 ~ 2023.06)
 
   ### :hammer: Skills :wrench:
   |기술 스택|학습 기록|기록 달성률|활용 능력|정리 버전|상세 설명|
