@@ -1,9 +1,8 @@
-
-
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FBC422&height=140&section=header&text=한기현%20||%20Kyeon&fontColor=353535&fontAlignY=45&fontSize=50&desc=Growing%20Devloper&descSize=28&descAlignY=80)
-### :raising_hand: Hello World! :raising_hand: 
+
+### :raising_hand: Hello World! :raising_hand:
 
 #### KeeHyeon Han
 
@@ -11,10 +10,35 @@ Wanna be an easy-to-talk developer & a communicative developer.
 
 Growing devleloper who is easy to approach.
 
-  ### :books: History :books:
-  ##### :school:Inha Univ. Chemical Engineering (2014.03 ~ 2022.02)
-  ##### :computer: Samsung Software Academy For Youth 8th (2022.07 ~ 2023.06)
+### :books: History :books:
 
+##### :school:Inha Univ. Chemical Engineering (2014.03 ~ 2022.02)
+
+##### :computer: Samsung Software Academy For Youth 8th (2022.07 ~ 2023.06)
+
+### :hammer: Skills :wrench:
+
+**언어**
+
+`TypeScript`, `JavaScript`, `python`
+
+**라이브러리/프레임워크/스타일**
+
+`ReactJS`, `NextJS`, `TailwindCSS`, `Material UI`
+
+**스캡폴딩 / 테스트**
+
+`pnpm`, `yarn`, `npm`, `vite`, `Webpack`, `vitest`, `jest`
+
+**상태관리**
+
+`ReactQuery`, `React-Hook-Form`, `Redux-Toolkit`, `mobx`
+
+**협업 툴**
+
+`git`, `Jira`, `Notion`, `Figma`
+
+<!--
   ### :hammer: Skills :wrench:
   |기술 스택|학습 기록|기록 달성률|활용 능력|정리 버전|상세 설명|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -38,24 +62,28 @@ Growing devleloper who is easy to approach.
 |<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF"/>|-|-|상|-||
 |<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=FFFFFF"/>|-|-|-|-||
 |<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=FFFFFF"/>|-|-|-|-||
-|<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=Android&logoColor=FFFFFF"/>|-|-|-|-||
+|<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=Android&logoColor=FFFFFF"/>|-|-|-|-|| -->
 <!--   |기술 스택|학습 기록|기록 달성률|활용 능력|정리 문서 버전| -->
 
-  ---
-  ### :clipboard: Project :chart_with_upwards_trend:
-  
-  #### :cookie: CookieMovie :movie_camera: : [여운을 나누는 영화 커뮤니티 서비스](https://github.com/HanKyeon/CookieMovie)
-  #### :ocean: CalmWave :watch: : [조금씩 성장 할 당신을 위한 업무 시간 관리 및 자세 교정 서비스](https://github.com/HanKyeon/Calm-Wave)
-  #### :family: doEng :baby: : [우리 아이 행동을 통한 영어 학습 서비스](https://github.com/HanKyeon/doEng)
-  #### :computer: SSAFAST :computer_mouse: : [프로젝트 설계부터 테스트까지, SSAFAST](https://github.com/HanKyeon/SSAFAST)
-  ---
-  
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hgh21233)](https://solved.ac/hgh21233)
+<!-- --- -->
+
+### :clipboard: Project :chart_with_upwards_trend:
+
+:computer: SSAFAST :computer_mouse: : [프로젝트 설계부터 테스트까지, SSAFAST](https://github.com/HanKyeon/SSAFAST)
+:family: doEng :baby: : [우리 아이 행동을 통한 영어 학습 서비스](https://github.com/HanKyeon/doEng)
+:ocean: CalmWave :watch: : [조금씩 성장 할 당신을 위한 업무 시간 관리 및 자세 교정 서비스](https://github.com/HanKyeon/Calm-Wave)
+:cookie: CookieMovie :movie_camera: : [여운을 나누는 영화 커뮤니티 서비스](https://github.com/HanKyeon/CookieMovie)
+
+<!-- --- -->
+
+### :pen: 알고리즘 :pencil:
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hgh21233)](https://solved.ac/hgh21233)
 
   <div>
 
-  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=hgh21233&theme=warm)
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hgh21233)](https://solved.ac/hgh21233)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=hgh21233&theme=warm)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hgh21233)](https://solved.ac/hgh21233)
 
   </div>
 
