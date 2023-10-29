@@ -16,6 +16,8 @@ Growing devleloper who is easy to approach.
 
 ##### :computer: Samsung Software Academy For Youth 8th (2022.07 ~ 2023.06)
 
+##### 💼 TmaxWAPL (2023.07 ~ now)
+
 ### :hammer: Skills :wrench:
 
 **언어**
